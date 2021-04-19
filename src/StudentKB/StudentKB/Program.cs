@@ -1,12 +1,18 @@
 ﻿using System;
 
+
 namespace StudentKB
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            do
+            {
+
+            }
+            while (true);
+            Student[] student;
         }
     }
 }
